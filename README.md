@@ -4,7 +4,6 @@
 [![Play Store](https://img.shields.io/badge/Google_Play-Download-00ccff?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.antassist.app&hl=en)
 [![Dashboard](https://img.shields.io/badge/Dashboard-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
 [![Backend](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org)
 
 **Xappee** is a high-performance job marketplace ecosystem designed to bridge the gap between top talent and leading opportunities. Featuring a native **Mobile Application** for job seekers and a sophisticated **Node.js & Next.js Management Dashboard** for recruiters, it provides a seamless, real-time platform for job discovery, application tracking, and direct candidate-manager engagement.
 
