@@ -1,4 +1,4 @@
-# Xappee: Modern Job Marketplace 💼🚀
+# Xappee: Recruitment App 💼🚀
 ### The Ultimate Job Discovery & Management Ecosystem
 
 [![Play Store](https://img.shields.io/badge/Google_Play-Download-00ccff?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.antassist.app&hl=en)
